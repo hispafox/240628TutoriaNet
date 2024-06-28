@@ -20,3 +20,5 @@ Procedimiento de uso de GitHub
     a) Abrir la carpeta del repositorio en la maquina local
     b) Abrir la solucion
 6. Comprobar si hay cambios en el remoto y si los hay, descargarlos
+    - Recuperar (Fetch) los cambios del remoto
+    - Incorporar (Pull) los cambios del remoto
