@@ -1,0 +1,8 @@
+﻿// Agregar a posteriori la configuracion de CORS
+  //// Implementar CORS
+  //"Cors": {
+  //  "AllowedOrigins": "http://localhost:4200",
+  //  "AllowedMethods": "GET, POST, PUT, DELETE",
+  //  "AllowedHeaders": "Content-Type, Authorization"
+  //}
+
