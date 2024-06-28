@@ -19,3 +19,4 @@ Procedimiento de uso de GitHub
 5. Al siguiente dia tenemos dos opciones para continuar a o b
     a) Abrir la carpeta del repositorio en la maquina local
     b) Abrir la solucion
+6. Comprobar si hay cambios en el remoto y si los hay, descargarlos
