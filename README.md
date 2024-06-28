@@ -7,7 +7,7 @@ Pasos:
 0. Crear un repositorio en GitHub
 1. Crear una aplicacion API en Asp.Net Core
 2. Crear una aplicacion en Angular
-
+-----------------------------------------------------------------
 
 Procedimiento de uso de GitHub
 1. Crear un repositorio en GitHub
