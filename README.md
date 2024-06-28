@@ -1,1 +1,18 @@
-# 240628TutoriaNet
+# 240628TutoriaNet------
+
+Objetivos:
+- Crear una aplicacion en Angular que permita el uso de una API REST en Asp.Net Core
+
+Pasos:
+0. Crear un repositorio en GitHub
+1. Crear una aplicacion API en Asp.Net Core
+2. Crear una aplicacion en Angular
+
+
+Procedimiento de uso de GitHub
+1. Crear un repositorio en GitHub
+2. Clonar el repositorio en la maquina local
+3. Realizar cambios en el repositorio local
+4. Subir los cambios al repositorio remoto mediante los siguientes pasos
+    a) Escribir un comentario sobre los cambios realizados
+    b) Clic en Confirmar Todo y Sincronizar
