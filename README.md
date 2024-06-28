@@ -16,3 +16,6 @@ Procedimiento de uso de GitHub
 4. Subir los cambios al repositorio remoto mediante los siguientes pasos
     a) Escribir un comentario sobre los cambios realizados
     b) Clic en Confirmar Todo y Sincronizar
+5. Al siguiente dia tenemos dos opciones para continuar a o b
+    a) Abrir la carpeta del repositorio en la maquina local
+    b) Abrir la solucion
