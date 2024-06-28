@@ -22,3 +22,5 @@ Procedimiento de uso de GitHub
 6. Comprobar si hay cambios en el remoto y si los hay, descargarlos
     - Recuperar (Fetch) los cambios del remoto
     - Incorporar (Pull) los cambios del remoto
+7. Cada vez que se considere necesario subir los cambios al remoto, repetir los pasos 3, 4
+8. Cada dia repetir paso 5 al inicio del dia
