@@ -10,6 +10,12 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+// Agregar el servicio de base de datos SQL Server
+builder.Services.AddDbContext<ContextoApi>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("ConversorApiPaisesSqlServer"));
+});
+
 // Agregar el servicio de base de datos de Entity Framework Core
 
 

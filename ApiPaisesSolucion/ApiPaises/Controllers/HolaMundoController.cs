@@ -8,6 +8,13 @@ public class HolaMundoController : ControllerBase  // C3-ControllerBase es una c
 //                    ========== <-- Sufijo Controller
 {
 
+
+    public HolaMundoController(ContextoApi contexto)
+    {
+        
+    }
+
+
     [HttpGet] // M1-Indica que es un método de tipo Get
     public IActionResult Get() // M2-Método Get que retorna un IActionResult
                                // El nombre del método es cualquiera, en este caso Get
