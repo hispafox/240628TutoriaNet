@@ -16,7 +16,6 @@ builder.Services.AddDbContext<ContextoApi>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("ConversorApiPaisesSqlServer"));
 });
 
-// Agregar el servicio de base de datos de Entity Framework Core
 
 
 var app = builder.Build();
