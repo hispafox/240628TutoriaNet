@@ -21,7 +21,7 @@ public partial class Products
 
     [Required]
     [StringLength(40)]
-    [JsonPropertyName("ProductName")]
+    //[JsonPropertyName("ProductName")]
     public string ProductName { get; set; }
 
     public int? SupplierID { get; set; }
